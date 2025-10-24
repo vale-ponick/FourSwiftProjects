@@ -42,6 +42,13 @@
 			);
 			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
 		};
+		587A2BB72EABCDAF008A81AD /* Exceptions for "SmartBookshelf" folder in "OrderingSystemInCafe" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				smartBookshelfPractice.swift,
+			);
+			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -61,6 +68,14 @@
 			path = ShoppingList;
 			sourceTree = "<group>";
 		};
+		587A2BB42EABBFC4008A81AD /* SmartBookshelf */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				587A2BB72EABCDAF008A81AD /* Exceptions for "SmartBookshelf" folder in "OrderingSystemInCafe" target */,
+			);
+			path = SmartBookshelf;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +92,7 @@
 		587A2B952EAB084F008A81AD = {
 			isa = PBXGroup;
 			children = (
+				587A2BB42EABBFC4008A81AD /* SmartBookshelf */,
 				587A2BA12EAB084F008A81AD /* main.swift */,
 				587A2BA92EAB21A5008A81AD /* ShoppingList */,
 				587A2BA02EAB084F008A81AD /* OrderingSystemInCafe */,
@@ -110,6 +126,7 @@
 			fileSystemSynchronizedGroups = (
 				587A2BA02EAB084F008A81AD /* OrderingSystemInCafe */,
 				587A2BA92EAB21A5008A81AD /* ShoppingList */,
+				587A2BB42EABBFC4008A81AD /* SmartBookshelf */,
 			);
 			name = OrderingSystemInCafe;
 			packageProductDependencies = (
