@@ -28,6 +28,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		58193A1A2EAC4E9500141A97 /* Exceptions for "NavigationSystemOfYachtStellaDiMare" folder in "OrderingSystemInCafe" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				navigationSystemPractice.swift,
+			);
+			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
+		};
 		587A2BAE2EAB33E8008A81AD /* Exceptions for "OrderingSystemInCafe" folder in "OrderingSystemInCafe" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
@@ -52,6 +59,14 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		58193A142EAC4A2900141A97 /* NavigationSystemOfYachtStellaDiMare */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				58193A1A2EAC4E9500141A97 /* Exceptions for "NavigationSystemOfYachtStellaDiMare" folder in "OrderingSystemInCafe" target */,
+			);
+			path = NavigationSystemOfYachtStellaDiMare;
+			sourceTree = "<group>";
+		};
 		587A2BA02EAB084F008A81AD /* OrderingSystemInCafe */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -92,6 +107,7 @@
 		587A2B952EAB084F008A81AD = {
 			isa = PBXGroup;
 			children = (
+				58193A142EAC4A2900141A97 /* NavigationSystemOfYachtStellaDiMare */,
 				587A2BB42EABBFC4008A81AD /* SmartBookshelf */,
 				587A2BA12EAB084F008A81AD /* main.swift */,
 				587A2BA92EAB21A5008A81AD /* ShoppingList */,
@@ -124,6 +140,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				58193A142EAC4A2900141A97 /* NavigationSystemOfYachtStellaDiMare */,
 				587A2BA02EAB084F008A81AD /* OrderingSystemInCafe */,
 				587A2BA92EAB21A5008A81AD /* ShoppingList */,
 				587A2BB42EABBFC4008A81AD /* SmartBookshelf */,
