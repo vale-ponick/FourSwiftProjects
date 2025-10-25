@@ -23,40 +23,40 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		587A2B9E2EAB084F008A81AD /* OrderingSystemInCafe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OrderingSystemInCafe; sourceTree = BUILT_PRODUCTS_DIR; };
+		587A2B9E2EAB084F008A81AD /* FourSwiftProjects */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FourSwiftProjects; sourceTree = BUILT_PRODUCTS_DIR; };
 		587A2BA12EAB084F008A81AD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		58193A1A2EAC4E9500141A97 /* Exceptions for "StellaDiMareNavigation" folder in "OrderingSystemInCafe" target */ = {
+		58193A1A2EAC4E9500141A97 /* Exceptions for "StellaDiMareNavigation" folder in "FourSwiftProjects" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				route.swift,
 				routeOperations.swift,
 				wayPoint.swift,
 			);
-			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
+			target = 587A2B9D2EAB084F008A81AD /* FourSwiftProjects */;
 		};
-		587A2BAE2EAB33E8008A81AD /* Exceptions for "OrderingSystemInCafe" folder in "OrderingSystemInCafe" target */ = {
+		587A2BAE2EAB33E8008A81AD /* Exceptions for "OrderingSystemInCafe" folder in "FourSwiftProjects" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				orderedSystem.swift,
 			);
-			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
+			target = 587A2B9D2EAB084F008A81AD /* FourSwiftProjects */;
 		};
-		587A2BAF2EAB33EB008A81AD /* Exceptions for "ShoppingList" folder in "OrderingSystemInCafe" target */ = {
+		587A2BAF2EAB33EB008A81AD /* Exceptions for "ShoppingList" folder in "FourSwiftProjects" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				shoppingListPractice.swift,
 			);
-			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
+			target = 587A2B9D2EAB084F008A81AD /* FourSwiftProjects */;
 		};
-		587A2BB72EABCDAF008A81AD /* Exceptions for "SmartBookshelf" folder in "OrderingSystemInCafe" target */ = {
+		587A2BB72EABCDAF008A81AD /* Exceptions for "SmartBookshelf" folder in "FourSwiftProjects" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				smartBookshelfPractice.swift,
 			);
-			target = 587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */;
+			target = 587A2B9D2EAB084F008A81AD /* FourSwiftProjects */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -64,7 +64,7 @@
 		58193A142EAC4A2900141A97 /* StellaDiMareNavigation */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				58193A1A2EAC4E9500141A97 /* Exceptions for "StellaDiMareNavigation" folder in "OrderingSystemInCafe" target */,
+				58193A1A2EAC4E9500141A97 /* Exceptions for "StellaDiMareNavigation" folder in "FourSwiftProjects" target */,
 			);
 			path = StellaDiMareNavigation;
 			sourceTree = "<group>";
@@ -72,7 +72,7 @@
 		587A2BA02EAB084F008A81AD /* OrderingSystemInCafe */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				587A2BAE2EAB33E8008A81AD /* Exceptions for "OrderingSystemInCafe" folder in "OrderingSystemInCafe" target */,
+				587A2BAE2EAB33E8008A81AD /* Exceptions for "OrderingSystemInCafe" folder in "FourSwiftProjects" target */,
 			);
 			path = OrderingSystemInCafe;
 			sourceTree = "<group>";
@@ -80,7 +80,7 @@
 		587A2BA92EAB21A5008A81AD /* ShoppingList */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				587A2BAF2EAB33EB008A81AD /* Exceptions for "ShoppingList" folder in "OrderingSystemInCafe" target */,
+				587A2BAF2EAB33EB008A81AD /* Exceptions for "ShoppingList" folder in "FourSwiftProjects" target */,
 			);
 			path = ShoppingList;
 			sourceTree = "<group>";
@@ -88,7 +88,7 @@
 		587A2BB42EABBFC4008A81AD /* SmartBookshelf */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				587A2BB72EABCDAF008A81AD /* Exceptions for "SmartBookshelf" folder in "OrderingSystemInCafe" target */,
+				587A2BB72EABCDAF008A81AD /* Exceptions for "SmartBookshelf" folder in "FourSwiftProjects" target */,
 			);
 			path = SmartBookshelf;
 			sourceTree = "<group>";
@@ -121,7 +121,7 @@
 		587A2B9F2EAB084F008A81AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				587A2B9E2EAB084F008A81AD /* OrderingSystemInCafe */,
+				587A2B9E2EAB084F008A81AD /* FourSwiftProjects */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -129,9 +129,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */ = {
+		587A2B9D2EAB084F008A81AD /* FourSwiftProjects */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 587A2BA52EAB084F008A81AD /* Build configuration list for PBXNativeTarget "OrderingSystemInCafe" */;
+			buildConfigurationList = 587A2BA52EAB084F008A81AD /* Build configuration list for PBXNativeTarget "FourSwiftProjects" */;
 			buildPhases = (
 				587A2B9A2EAB084F008A81AD /* Sources */,
 				587A2B9B2EAB084F008A81AD /* Frameworks */,
@@ -147,11 +147,11 @@
 				587A2BA92EAB21A5008A81AD /* ShoppingList */,
 				587A2BB42EABBFC4008A81AD /* SmartBookshelf */,
 			);
-			name = OrderingSystemInCafe;
+			name = FourSwiftProjects;
 			packageProductDependencies = (
 			);
 			productName = OrderingSystemInCafe;
-			productReference = 587A2B9E2EAB084F008A81AD /* OrderingSystemInCafe */;
+			productReference = 587A2B9E2EAB084F008A81AD /* FourSwiftProjects */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -169,7 +169,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 587A2B992EAB084F008A81AD /* Build configuration list for PBXProject "OrderingSystemInCafe" */;
+			buildConfigurationList = 587A2B992EAB084F008A81AD /* Build configuration list for PBXProject "FourSwiftProjects" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -183,7 +183,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				587A2B9D2EAB084F008A81AD /* OrderingSystemInCafe */,
+				587A2B9D2EAB084F008A81AD /* FourSwiftProjects */,
 			);
 		};
 /* End PBXProject section */
@@ -343,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		587A2B992EAB084F008A81AD /* Build configuration list for PBXProject "OrderingSystemInCafe" */ = {
+		587A2B992EAB084F008A81AD /* Build configuration list for PBXProject "FourSwiftProjects" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				587A2BA32EAB084F008A81AD /* Debug */,
@@ -352,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		587A2BA52EAB084F008A81AD /* Build configuration list for PBXNativeTarget "OrderingSystemInCafe" */ = {
+		587A2BA52EAB084F008A81AD /* Build configuration list for PBXNativeTarget "FourSwiftProjects" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				587A2BA62EAB084F008A81AD /* Debug */,
