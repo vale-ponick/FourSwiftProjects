@@ -8,7 +8,6 @@
 import Foundation
 
 print("Ordering System in Cafe")
-print("Shopping List Practice")
-print("🎯 TASK 1: SAFE WAYPOINT")
-
-
+print("Shopping List")
+print("StellaDiMareNavigation")
+print("SmartBookshelf")
